@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "name": "Atlas onboarding refresh",
+      "owner": "Jordan Lee",
+      "status": "In progress",
+      "recentActivity": "Drafted the updated welcome flow for review.",
+      "priority": "High"
+    },
+    {
+      "name": "Northstar analytics",
+      "owner": "Sam Rivera",
+      "status": "On track",
+      "recentActivity": "Shared the first pass of the metrics dashboard.",
+      "priority": "Medium"
+    },
+    {
+      "name": "Fieldnotes mobile",
+      "owner": "Taylor Morgan",
+      "status": "At risk",
+      "recentActivity": "Flagged a dependency that may affect the next milestone.",
+      "priority": "High"
+    }
+  ]
+}
